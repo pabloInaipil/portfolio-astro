@@ -10,54 +10,45 @@ seo:
 
 ![Project preview](/quepasaaraucania.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing <a href="https://quepasaaraucania.cl/" target="_blank">Portal de Noticias Regionales quepasaaraucania.cl</a>.
+**Link del proyecto:** <a href="https://quepasaaraucania.cl/" target="_blank">Portal de Noticias Regionales quepasaaraucania.cl</a>
 
 
-**Project Overview:**
-PixelPerfect Art Gallery is an innovative online platform that transcends traditional art exhibition spaces. This web application is dedicated to showcasing and celebrating pixel art in the form of Non-Fungible Tokens (NFTs), providing artists with a digital canvas to display their unique creations while ensuring secure ownership through blockchain technology.
+**Descripción del proyecto:**
+Proyecto desarrollado con tecnología Wordpress el cual consta de un portal de noticias regionales, el cual expone todo el acontecer noticioso con foco especificamente de la Región de La Araucanía, Chile. 
 
-## Objectives
+## Objetivos
 
-1. Create an immersive online gallery experience specifically tailored for pixel art enthusiasts and NFT collectors.
-2. Utilize blockchain technology to authenticate and secure ownership of digital artworks, ensuring a transparent and tamper-proof art marketplace.
-3. Foster a community of digital artists and art collectors, providing a platform for collaboration, appreciation, and exchange.
+1. Crear un espacio tecnológico y de difusión de noticias regionales a un medio de comunicación que solo difundía noticias a traves de Redes Sociales (Instagram, Facebook, X).
 
 ## Features
 
-1. **NFT Art Exhibition:**
+1. **Home de noticias:**
 
-- PixelPerfect features a curated exhibition of pixel art NFTs, showcasing a diverse range of styles, themes, and techniques.
-- Users can explore and appreciate the intricate details of each digital artwork in a visually stunning online gallery.
+- El home de noticias cuando con un header con la noticias principal del día y con secciones secundarioas al costado derecho de la pantalla
+- Menú con una subpaginación de cada sección de noticias las cuales consta de: *Actualidad, Policial, Judicial, Deportes, Salud mental, Política, Tiempo Libre, Opinion*. Menú tambien cuenta con un buscador mediante palabras clave.
+- En la página de cada noticia se pueden observar la imagen de la noticia principal con el desarrollo del texto de la noticia, tags con el tema y sus relaciones, seccion de opiniones de los lectores y noticias recientes. 
+- Header con imagen corporativa y link de redes sociales en el top menú
+- Espacios para insertar publicidad.
+- Carrusel interactivo al final llamado *"Por si te lo perdiste"*
+- Footer con información de *"Quienes somos"*, *"Actualidad"*, *"Menu"*, *"Más visitadas"*
+- Modo claro y oscuro. 
+- Deslizador para ir arriba. 
 
-2. **Blockchain Authentication:**
 
-- Each pixel art piece is tokenized as an NFT on a blockchain, ensuring authenticity, provenance, and secure ownership.
-- Users can view the blockchain records to verify the origin and history of the digital artworks.
+## Stack de Tecnologías
 
-3. **Virtual Art Auctions:**
+- **Frontend**: NewsCard Pro theme
+- **Backend**: V2 Network server cpanel softaculus wordpress
+- **Database**: mySQL 
+- **UX-UI**: NewsCard Pro theme
 
-- PixelPerfect hosts virtual art auctions, allowing users to bid on and acquire exclusive pixel art NFTs.
-- The auction platform provides a dynamic and engaging environment for art enthusiasts and collectors.
+## Resultado
 
-4. **Community Collaboration Spaces:**
+Proyecto desarrollado en 1 mes con más 3600 clics de busqueda en los ultimos 3 meses. 
 
-- Dedicated community spaces allow artists to connect, collaborate, and showcase their creative process.
-- Users can discuss techniques, share insights, and even collaborate on pixel art projects within the PixelPerfect community.
+## Staff de desarrolladores
+- **Backend**: Pablo Inaipil (Chi) ׀ Juan Osses (Col) 
+- **Frontend** : Pablo Inaipil (Chi)
+- **UX-UI** : Pablo Inaipil (Chi)
+- **Team Leader** : Pablo Inaipil (Chi)
 
-5. **Interactive Pixel Art Creation Workshop:**
-
-- PixelPerfect provides a virtual workshop where users can create their own pixel art and potentially tokenize their creations as NFTs.
-- Artists can share their works with the community or submit them for consideration in future exhibitions.
-
-## Technology Stack
-
-- Frontend: Angular for a dynamic and responsive user interface.
-- Backend: Node.js for handling server-side logic and API integration.
-- Database: Ethereum blockchain for storing NFT ownership and transaction details.
-- Smart Contracts: Solidity for developing blockchain smart contracts.
-
-## Outcome
-
-PixelPerfect Art Gallery has successfully created a digital haven for pixel art enthusiasts, providing a secure and engaging platform for artists and collectors alike. The integration of blockchain technology ensures transparency and authenticity in the world of digital art, fostering a vibrant community that appreciates the uniqueness and creativity of pixel art NFTs.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).

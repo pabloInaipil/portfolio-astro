@@ -13,53 +13,40 @@ seo:
 **Note:** This case study is entirely fictional and created for the purpose of showcasing <a href="https://public.tableau.com/app/profile/pablo.inaipil/viz/data-a-qpa-v1/Dashboard1" target="_blank">Dashboard Tableau - Portal Noticias Regionales quepasaaraucania.cl</a>.
 
 
-**Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+**Descripción del proyecto:**
+Se realiza el análisis de datos para el comportamiento online del sitio web *quepasaaraucania.cl* y su respectiva visualización mediante Tableau considerando los últimos 3 meses desde la base de datos de *Google Search Console*. 
 
-## Objectives
+## Objetivos
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+1. Desarrollar en base a los datos extraidos un *Dashboard* interactivo en *Tableau* del sitio como una primera aproximación rescatando y analizando los datos esenciales como la cantidad de clics, el porcentaje de clicks sobre las impresiones, el total de impresiones y su posición. 
+2. Crear el *Storyboard en Tableau* con los principales analisis, graficos y conclusiones extraidas de la data
+3. Concluir con un análisis y valoracion del sitio en terminos de llegar a un precio de venta de publicidad acorde a su posicionamiento en la web. 
 
 ## Features
 
-1. **AI-Powered Recipe Recommendations:**
+1. **Dashboard interactivo Tableau:**
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
+- Gráfico de barras considerando los ultimos 3 meses midiendo la cantidad de clics del sitio.
+- Mapa de calor donde se mide el *CTR (Clic-Through Rate)*, el cual mide el porcentaje de clics sobre las impresiones.
+- Gráfico de líneas en el cual se refleja la *posición promedio en la que aparece el sitio en los resultados de búsqueda.
+- Gráfico de barras sobre el *Total de impresiones*, es decir el número de veces que aparció el sitio en los resultados de búsqueda. 
 
-2. **Ingredient Scanner and Inventory Management:**
+2. **Storytelling Tableau:**
 
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
+- Panel de *Storytelling* donde resaltamos los principales hallazgos, conclusiones y relatos de persuación para inversores.
 
-3. **Step-by-Step Cooking Guide:**
+## Stack de Tecnologías
 
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
+- Tableau: Tableau Desktop.
+- Excel: Extracción y consolidaos de datos.
+- Google Search Console: Fuente de datos.
 
-4. **Nutritional Insights and Meal Planning:**
+## Resultado
 
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
+Se desarrolla un MVP en Data Visualization mediante Tableau para el portal de noticias quepasaaraucania.cl donde se extrae y  manipula la data desarrollando un Dashboard interactivo capas de entregar información vital para la exposición de posibles inversores. 
 
-5. **Voice-Activated Assistance:**
+## Staff de desarrolladores
 
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
-
-## Technology Stack
-
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
-
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
-
-## Outcome
-
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- **Tableau**: Pablo Inaipil (Ch)
+- **Excel**: Pablo Inaipil (Ch)
+- **Google Search Console**: Pablo Inaipil (Ch)

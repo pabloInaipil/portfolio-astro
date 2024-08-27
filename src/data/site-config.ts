@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Pablo',
-    subtitle: 'Data Analyst/Backend developer ',
+    title: 'Pablo Inaipil Moreno',
+    subtitle: 'Data Analytics | Tableau | SQL | Python | WordPress Dev | Full stack Java ',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/foto.jpg',
@@ -96,8 +96,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hola! Bienvenido a mi portafolio web!',
-        text: "Soy **Pablo Inaipil**, me dedico al analisis de datos y al desarrollo backend, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Explora mis proyectos y conversemos con un café!',
+        text: "Soy **Pablo Inaipil**, me dedico al análisis de datos  y al desarrollo backend, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
             src: '/hero2.jpg',
             alt: 'A person sitting at a desk in front of a computer'
